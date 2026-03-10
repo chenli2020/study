@@ -1,2 +1,2 @@
 # study
-找工作学习记录
+ai infra学习记录
